@@ -106,7 +106,6 @@ void opcode_fail(char *token, unsigned int line_number)
 	len = 0;
 	while (token[len] != '\0' && token[len] != ' ' && token[len] != '\n')
 		len++;
-	
 	invalid_opcode = malloc(sizeof(char) * (len));
 	if (!invalid_opcode)
 	{
