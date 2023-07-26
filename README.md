@@ -30,4 +30,4 @@ Pint Operation: We will use the pint to also print the top element followed by a
 
 The nop operation: This is to show that the stack machine can also perform no operation. This does change the state of the stack.
 
-Swap Operation: This is to exchange 
+Swap Operation: This is to exchange the value of two elements. This is useful for rearranging element in stack. If the element is < 2 then error message will be printed otherwise it should be successful. 
