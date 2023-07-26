@@ -25,4 +25,7 @@ Pall Operation: This prints the top element of the stack without removing it fro
 
 Pop operation: This operation removes the top element and return it to the user causing the stack pointer to be decremented inorder to point to a new top. If the stack is empty it will return error.
 
-Pint Operation: We will use the pint to also print the top element followed by a new line. This operation is good for debugging. If the staff is empty return error. 
+Pint Operation: We will use the pint to also print the top element followed by a new line. This operation is good for debugging. If the staff is empty return error.
+
+
+The nop operation: This is to show that the stack machine can also perform no operation. This does change the state of the stack. 
