@@ -3,7 +3,7 @@
 /**
  * _div - Divides the second top element of the stack by the top element
  * @head: A pointer to the top of the stack
- * @line_number: The current line number from the bytecode file
+ * @line_number: The current line number of the bytecode file
  * Return: Nothing
  */
 void _div(stack_t **head, unsigned int line_number)
