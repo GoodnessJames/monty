@@ -17,4 +17,7 @@ void push(int value)
 		printf("L%d: push: memory allocation failed\n", _LINE_);
 		exit(EXIT_FAILURE);
 	}
+	ret->value = atoi(value);
+	ret->next = free_list:
+}
 
