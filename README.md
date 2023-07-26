@@ -53,3 +53,12 @@ We will love to express our sincere gratitude to thw ALX community and our team 
 
 
 Shout out to allthe ambassadors and technical mentor for the journey so far. we are impressed and graced to build more problem-solving projects in future.
+
+Authors
+
+Name: Ginika Elizabeth Nna
+Email: elizabethginika9@gmail.com
+
+Name: Goodness James Akoma
+Email: 
+
