@@ -1,13 +1,13 @@
 #include "monty.h"
 
 /**
- * line_tok - Gets the line from monty file and tokenizes it
+ * line_tok - Gets the line from the monty file and tokenizes it
  * @head: The head of the linked list
  * @fp: File pointer
  * @line: Line from the monty file to tokenize
  * @line_number: The current working line number of the Monty bytecodes file
  * @mode: 0 if stack, 1 if queue
- * Return: Void
+ * Return: void
  */
 void line_tok(stack_t **head, FILE *fp, char *line,
 unsigned int line_number, int *mode)
