@@ -4,8 +4,8 @@ int error = 0;
 
 /**
  * main - The entry point of the Monty Interpreter
- * @ac: Arguments number
- * @av: Arguments strings/array
+ * @ac: The argument number
+ * @av: The argument string/array
  * Return: int
  */
 int main(int ac, char **av)
