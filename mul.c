@@ -2,8 +2,8 @@
 
 /**
  * _mul - Multiplies the second top element of the stack with the top element
- * @head: Pointer to the top of the stack
- * @line_number: The current line number from the bytecode file
+ * @head: A pointer to the top of the stack
+ * @line_number: The current line number of the month bytecode file
  * Return: void
  */
 void _mul(stack_t **head, unsigned int line_number)
