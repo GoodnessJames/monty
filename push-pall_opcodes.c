@@ -21,3 +21,27 @@ void push(int value)
 	ret->next = free_list:
 }
 
+/**
+ * pall - prints the top element
+ */
+void pall()
+{
+	sttuct memory block *curr, *prev;
+	curr = free_list;
+	prev = NULL;
+
+	while (curr != NULL)
+	{
+		printf("%d\n", curr->value);
+		curr = curr->next;
+	}
+	if (prev != NULL)
+	{
+		curr = curr->next;
+	}
+	else
+	{
+		prev = curr;
+		break;
+	}
+}
