@@ -1,8 +1,8 @@
 #include "monty.h"
 
 /**
- * _pall - Print all linked list node data
- * @head: A pointer to the top mode node of a stack_t linked list
+ * _pall - Prints all linked list node data
+ * @head: A pointer to the top of a stack_t linked list
  * @line_number: The current working line number of the Monty bytecodes file
  * Return: void
  */
