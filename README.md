@@ -19,3 +19,5 @@ This project allows user to perform push, pall, pint, pop, swap, add and nop. Th
 Project Description.
 
 Push Function: This operation adds a new element on top of a stack. It takes an integer value as a parameter and then, checks if the stack is empty. if so it returns an error. Otherwise it goes ahead and add and shift the pointer to the new top element.
+
+Pall Operation: This prints the top element of the stack without removing it from the stack. The stack element and pointer are static (not changed). We just want to see what is on top.
