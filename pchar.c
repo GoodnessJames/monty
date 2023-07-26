@@ -2,7 +2,7 @@
 
 /**
  * _pchar - Prints the character at the top of the stack
- * @head: Pointer to the top of the stack
+ * @head: A pointer to the top of the stack
  * @line_number: The current working line number of the Monty bytecodes file
  * Return: void
  */
