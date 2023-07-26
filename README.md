@@ -9,4 +9,8 @@ We wull create a repository anf file.c folders to store the source codes for thi
 
 In addition, we are going compile these source codes into object files for more easy intepretation.
 
-We used unordered data structure(LIFO) to demonstrate how data can be manipulated. 
+We used unordered data structure(LIFO) to demonstrate how data can be manipulated. Some of these functions are going to be recursive as we will demonstrate using nop.
+
+We will also demonstrate practucally how to allocate, store, and free memory space for more functionalities.
+
+This project allows user to perform push, pall, pint, pop, swap, add and nop. This will demonstrate basic functionality of a stack machine and show how simpke operations can be performed pn a stack in C programming.
