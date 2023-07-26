@@ -8,3 +8,5 @@ We wull create a repository anf file.c folders to store the source codes for thi
 
 
 In addition, we are going compile these source codes into object files for more easy intepretation.
+
+We used unordered data structure(LIFO) to demonstrate how data can be manipulated. 
