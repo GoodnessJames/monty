@@ -28,4 +28,6 @@ Pop operation: This operation removes the top element and return it to the user 
 Pint Operation: We will use the pint to also print the top element followed by a new line. This operation is good for debugging. If the staff is empty return error.
 
 
-The nop operation: This is to show that the stack machine can also perform no operation. This does change the state of the stack. 
+The nop operation: This is to show that the stack machine can also perform no operation. This does change the state of the stack.
+
+Swap Operation: This is to exchange 
