@@ -2,10 +2,10 @@
 
 /**
  * _mod - Computes the modulus division of the second top element
- *		  of the stack by the top element of the stack
+ *	  of the stack by the top element of the stack
  * @head: A pointer to the top of the stack
- * @line_number: The current line number from the bytecode file
- * Return: Void
+ * @line_number: The current line number of the bytecode file
+ * Return: void
  */
 void _mod(stack_t **head, unsigned int line_number)
 {
