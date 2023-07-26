@@ -3,7 +3,7 @@
 /**
  * stack - Pushes a new node to the stack
  * @head: Pointer to the top of the stack
- * @new: The new node to push
+ * @new: The new node to push to the stack
  * Return: void
  */
 void stack(stack_t **head, stack_t **new)
