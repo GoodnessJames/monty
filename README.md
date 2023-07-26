@@ -30,4 +30,19 @@ Pint Operation: We will use the pint to also print the top element followed by a
 
 The nop operation: This is to show that the stack machine can also perform no operation. This does change the state of the stack.
 
-Swap Operation: This is to exchange the value of two elements. This is useful for rearranging element in stack. If the element is < 2 then error message will be printed otherwise it should be successful. 
+Swap Operation: This is to exchange the value of two elements. This is useful for rearranging element in stack. If the element is < 2 then error message will be printed otherwise it should be successful.
+
+Pop Operation: This is to remove the top element of a stack, however we will copy it to a temporary memory space before doing this.
+
+
+Compilation Process
+
+We will compile our codes using the code below
+
+gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
+
+This will convertt outr source  code to  object codes to check for syntax error  and other major errors  that might affect functionailities of our source code.
+
+Any output must be printed on stdout .
+Any error message should be printed  using stderr
+
