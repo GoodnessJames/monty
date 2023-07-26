@@ -4,8 +4,8 @@
  * free_list - Frees the linked list
  * @head: A pointer to the top of the stack
  * @fp: File pointer
- * @line: line we're reading.
- * Return: nothing.
+ * @line: The line to read
+ * Return: void
  */
 void free_list(stack_t **head, FILE *fp, char *line)
 {
