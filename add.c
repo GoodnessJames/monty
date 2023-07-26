@@ -3,7 +3,7 @@
 /**
  * _add - Adds the top 2 elements of the stack
  * @head: The head of the linked list
- * @line_number: The current line number from the bytecode file
+ * @line_number: The current line number of the bytecode file
  * Return: Nothing
  */
 void _add(stack_t **head, unsigned int line_number)
