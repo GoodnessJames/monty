@@ -31,11 +31,11 @@ void _push(stack_t **head, unsigned int line_number, char *arg, int *mode)
 }
 
 /**
- * check_push_arg - Checks if a push command has an arg in its line
- * @token: Token matching the the push line
+ * check_push_arg - Checks if a push command has an argument in its line
+ * @token: Token matching the push line
  * @line_number: The current line number of the Monty bytecode file
- * Return: On SUCCESS, returns (arg) ie a pointer to matching argument
- *		   On FAILURE returns (NULL)
+ * Return: On SUCCESS, returns (arg) ie a pointer to the matching argument
+ *	   On FAILURE returns (NULL)
  */
 char *check_push_arg(char *token, unsigned int line_number)
 {
