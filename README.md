@@ -1,5 +1,5 @@
 # Monty Interpreter
-Welcome to the Monty Bytecode Interpreter. This interpreter was developed in C language and is compliant with the ISO C standards: ISO90, ISO99, and ISO11. It is designed to process Monty bytecode files, which can have any extension, though preferably ".m". The interpreter reads these bytecode files and executes the opcodes they contain.
+Welcome to the Monty Bytecode Interpreter. This interpreter was developed in C language and is compliant with the ISO C89 standard. It is designed to process Monty bytecode files, which can have any extension, though preferably ".m". The interpreter reads these bytecode files and executes the opcodes they contain.
 This interpreter offers two execution modes: stack (LIFO - Last In, First Out) and queue (FIFO - First In, First Out). You can switch between these modes during script execution as needed. The interpreter is capable of handling various Monty opcodes, including those related to printing, mathematical operations, and more.
 
 ## Requirements
