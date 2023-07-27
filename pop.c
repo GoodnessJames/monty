@@ -3,7 +3,7 @@
 /**
  * _pop - Removes the top element of the stack
  * @head: A pointer to the top of the stack
- * @line_number: The current working line number of the Monty bytecodes file
+ * @line_number: The current working line number of the monty bytecode file
  * Return: void
  */
 void _pop(stack_t **head, unsigned int line_number)
