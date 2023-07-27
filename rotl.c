@@ -2,10 +2,10 @@
 
 /**
  * _rotl - Rotates the stack to the top:
- *		   The top element of the stack becomes the last one,
- *		   and the second top element of the stack becomes the first one.
+ *	   The top element of the stack becomes the last one,
+ *	   and the second top element of the stack becomes the first one.
  * @head: A pointer to the top of the stack
- * @line_number: The current working line number of the Monty bytecodes file
+ * @line_number: The current working line number of the Monty bytecode file
  * Return: void
  */
 void _rotl(stack_t **head, unsigned int line_number)
