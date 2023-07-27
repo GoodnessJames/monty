@@ -104,7 +104,7 @@ Run the interpreter on a file:
 - Lines can be empty and can contain any number of spaces before or after an opcode and its argument (only the first opcode and/or argument is taken into account).
 
 ## Testing and Validation
-The following are set of tests carried out with the monty intepreter to validate the intepreter works as expected.
+The following are set of tests carried out with the monty interpreter to validate the interpreter functions as expected.
 
 Note, Monty Interpreter runs in the default mode of STACK mode. To switch to queue mode, see examples below.
 
