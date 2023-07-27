@@ -2,7 +2,7 @@
 
 /**
  * _push - Pushes a new node to the linked list
- * @head: Head of the linked list
+ * @head: The head of the linked list
  * @line_number: The current line number of the Monty bytecode file
  * @arg: The matching argument to push
  * @mode: 0 if stack and 1 if queue
