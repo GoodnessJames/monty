@@ -102,13 +102,12 @@ Run the interpreter on a file:
 **Note:**
 - Opcodes preceeded by a `#` are treated as comments and the corresponding line is ignored.
 - Lines can be empty and can contain any number of spaces before or after an opcode and its argument (only the first opcode and/or argument is taken into account).
+- The Monty Interpreter runs in the default mode of STACK mode, but the mode can be switched to queue mode.
 
 ## Testing and Validation
-The following are set of tests carried out with the monty interpreter to validate the interpreter function as expected.
+The following are set of tests carried out with the monty interpreter to validate the interpreter function as expected:
 
-Note, Monty Interpreter runs in the default mode of STACK mode. To switch to queue mode, see examples below.
-
-Here's an illustration: Push values onto the stack and print them all.
+**Push operation:** Push values onto the stack and print them all.
 
 ```
 $ cat push_pall_pint.m
