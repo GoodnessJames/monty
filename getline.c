@@ -26,7 +26,7 @@ unsigned int line_number, int *mode)
 	check_token(head, fp, line, token, line_number, mode);
 }
 /**
- * check_mode - Checks if the mode has been changed (stack or queue)
+ * check_mode - Checks if the mode has been changed to stack or queue
  * @token: The word to check
  * @mode: 0 if stack, 1 if queue
  * Return: 1 if changed, 0 if not changed
