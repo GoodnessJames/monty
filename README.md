@@ -107,7 +107,7 @@ Run the interpreter on a file:
 ## Testing and Validation
 The following are set of tests carried out with the monty interpreter to validate the interpreter function as expected:
 
-**Push operation:** Push values onto the stack and print them all.
+**Operation:** Push values onto the stack and print them all.
 
 ```
 $ cat push_pall_pint.m
