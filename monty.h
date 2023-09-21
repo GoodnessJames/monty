@@ -73,4 +73,4 @@ int check_mode(char *token, int *mode);
 void opcode_fail(char *token, unsigned int line_number);
 void usage_error(unsigned int line_number);
 
-#endif /* _MONTY_H_ */
+#endif /* MONTY_H_ */
