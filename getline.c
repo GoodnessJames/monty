@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * line_tok - Gets the line from the monty file and tokenizes it.
+ * line_tok - Gets the line from the monty file and tokenizes it
  * @head: The head of the linked list
  * @fp: File pointer
  * @line: Line from the monty file to tokenize

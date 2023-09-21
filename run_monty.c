@@ -93,7 +93,7 @@ void (*get_function(char *token))(stack_t **, unsigned int)
 }
 
 /**
- * opcode_fail - Prints malloc fail msg and unknown instruction error msg
+ * opcode_fail - Prints malloc fail msg and unknown instruction err-msg
  * @token: The invalid command to display
  * @line_number: Line number in Monty bytecodes file where error occured
  * Return: void
